@@ -1,0 +1,4 @@
+phaser-examples
+/phaser/*
+!/phaser
+!/phaser/build
