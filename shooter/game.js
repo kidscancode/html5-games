@@ -1,3 +1,4 @@
+// on Step 4: http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-4/
 var game = new Phaser.Game(600, 400, Phaser.AUTO, 'phaser-demo', {
     preload: preload,
     create: create,
